@@ -1,3 +1,4 @@
 node_modules
 # Secret
-/tsconfig.json
+src/tsconfig.json
+*.log
