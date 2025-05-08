@@ -1,4 +1,9 @@
-node_modules
+node_modules/
+
+
 # Secret
 src/tsconfig.json
 *.log
+dist/
+build/
+.env
